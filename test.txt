@@ -1,0 +1,17 @@
+object :
+object is an instans of class
+every time an obj create only non static member gets load into 
+to assces the obj which store is memory adress reference verialbe 
+systax
+
+class name referecen variable 
+class :
+class as a factory which genarate obj
+to reqt a class to generate we uesd new keyword class name and parenthies 
+2)
+class A
+{
+public s v m(st args[])
+{
+A a1=new A();
+}
